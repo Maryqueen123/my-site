@@ -1,0 +1,26 @@
+/*style for the testimonial section*/
+.testimonial-container{
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 7px;
+    margin: 16px 15px;
+    padding: 16px;
+    box-shadow: 0 4px 8px 0 rgb(0,0,0,0.1);
+    text-align: center;
+}
+
+.testimonial-container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.testimonial-container span{
+    font-size: 24px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.testimonial-container:hover{
+    background-color: lightskyblue;
+}

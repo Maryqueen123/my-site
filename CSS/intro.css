@@ -1,0 +1,24 @@
+/*style for introduction*/
+.intro{
+    border: none;
+    padding: 30px 12px;
+    display: block;
+    margin-left: 16px;
+}
+.intro h2{
+    color: black;
+    font-style: bold;
+}
+.intro span{
+    color: blue;
+    font-style: bold;
+    font-family: fantasy;
+}
+.intro a{
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    padding: 8px 10px;
+    text-decoration: none;
+}
